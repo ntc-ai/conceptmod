@@ -1,3 +1,17 @@
+# ⚠️ Moved
+
+**This repository is retired.** Active development lives at:
+
+**https://github.com/HyperGAN/conceptmod**
+
+(`HyperGAN/conceptmod` was transferred from `mikkel/conceptmod` with full git history.)
+
+Related: Anima particle product → https://github.com/HyperGAN/anima-concept-sliders · train stack → https://github.com/HyperGAN/particle-sliders
+
+Please open issues and PRs on the HyperGAN repos. This ntc-ai mirror is archived for history and stars only.
+
+---
+
 # conceptmod 2.0
 
 **Finetuning with words**, rebuilt for the flow-matching era.
